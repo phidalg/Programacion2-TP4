@@ -11,7 +11,7 @@ public class Empleado {
     
     private static int totalEmpleados = 0;
     private static Set<Integer> idsUsados = new HashSet<>();
-    private static final int SALARIO_POR_DEFECTO = 0;
+    private static final double SALARIO_POR_DEFECTO = 1000.00;
     private int id;
     private String puesto;
     private String nombre;

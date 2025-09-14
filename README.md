@@ -28,6 +28,7 @@ Requerimientos:
 1. Uso de this:
 
   ● Utilizar this en los constructores para distinguir parámetros de atributos.  
+  
 2. Constructores sobrecargados:
 
   ● Uno que reciba todos los atributos como parámetros.
@@ -35,7 +36,9 @@ Requerimientos:
   ● Otro que reciba solo nombre y puesto, asignando un id automático y un salario por defecto.
   
   ● Ambos deben incrementar totalEmpleados.
+  
 3. Métodos sobrecargados actualizarSalario:
+
   ● Uno que reciba un porcentaje de aumento.
   
   ● Otro que reciba una cantidad fija a aumentar.
